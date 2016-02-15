@@ -1,6 +1,6 @@
 name: Chenyanglim
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.01523
 typography_spectrum: 0.8921
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#45434f'
     - '#918f9a'
     - '#e06a72'
-  brandStrength: 0.75
+  brandStrength: 0.6875
   lightness: 0.8125
   saturation: 0.5
   rhythmicContrast: 0.5
