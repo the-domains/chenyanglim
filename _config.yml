@@ -2,6 +2,7 @@ name: Chenyanglim
 favicon: null
 layout_spectrum: 0.01523
 typography_spectrum: 0.8921
+title: site title this is
 cta:
   domain: null
   bucket: null
