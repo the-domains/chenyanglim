@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Chenyanglim]]></title>
         <description><![CDATA[Chenyanglim]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chenyanglim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:29:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 17:29:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chenyanglim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[London Smoker]]></title>
+            <description><![CDATA[<article><h1>London Smoker</h1><p>test post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/236b598cb9971756830fad6f2f8c0d1e2fd3dc30.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chenyanglim/london-smoker/index.html</link>
+            <guid isPermaLink="false">f7f5a098-ee65-4fb2-a076-afeb52b80183</guid>
+            <pubDate>Mon, 15 Feb 2016 17:29:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e614e5-0272-4d95-b809-160164aa7e83.jpg">]]></description>
-            <link>undefined8b879c81-b866-4f32-9177-ede2b9c2e294/index.html</link>
+            <link>https://thegrid.ai/chenyanglim/8b879c81-b866-4f32-9177-ede2b9c2e294/index.html</link>
             <guid isPermaLink="false">8b879c81-b866-4f32-9177-ede2b9c2e294</guid>
             <pubDate>Mon, 15 Feb 2016 17:29:15 GMT</pubDate>
         </item>
